@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projectkevin</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="title_activity_character_inf">CharacterInf</string>
+</resources>
